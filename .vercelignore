@@ -1,0 +1,4 @@
+node_modules
+dist
+.agon-env
+.git
